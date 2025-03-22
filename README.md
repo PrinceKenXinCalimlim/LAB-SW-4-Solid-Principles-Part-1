@@ -1,4 +1,4 @@
-# -Lab-SW4-Solid-Principles-Part-1
+# Lab-SW4-Solid-Principles-Part-1
 1. The following object violates Single Responsibility Principle (SRP). Make the adjustment in a form of java code to correct the violation. (25 points)  
 ![image](https://github.com/user-attachments/assets/f96c3577-9093-4628-8255-71039786eb5a)
 
